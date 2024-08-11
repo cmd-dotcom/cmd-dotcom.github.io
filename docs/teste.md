@@ -1,0 +1,4 @@
+---
+title: teste
+layout: home
+---
