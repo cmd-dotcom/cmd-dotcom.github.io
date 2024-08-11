@@ -1,6 +1,8 @@
 title: CMD-DOTCOM
 description: SOMENTE UM TESTE DO VITÃO
+theme: just-the-docs
+
 url: https://cmd-dotcom.github.io
 
 aux_links:
-  Esse site: https://github.com/cmd-dotcom/cmd-dotcom.github.io
+  Template Repository: https://github.com/cmd-dotcom/cmd-dotcom.github.io
