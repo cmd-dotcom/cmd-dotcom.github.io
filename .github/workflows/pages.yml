@@ -32,6 +32,10 @@ jobs:
       run:
         working-directory: docs
     steps:
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+        path: "docs/_site/"
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Ruby
