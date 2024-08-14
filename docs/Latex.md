@@ -32,4 +32,5 @@ O Visual Studio Code (VS Code), combinado com a extensão LaTeX Workshop, é uma
 
 Uma das grandes vantagens dessa combinação é a possibilidade de colaborar de forma eficiente, mesmo sem a necessidade de uma plataforma online dedicada, como o Overleaf. O VS Code permite que equipes trabalhem juntas utilizando sistemas de controle de versão como o Git, facilitando o acompanhamento de mudanças e a fusão de contribuições de vários membros do grupo.
 
+[VS Code](https://code.visualstudio.com/download){: .btn }
 [Extensão](https://github.com/James-Yu/LaTeX-Workshop/wiki/Install){: .btn }
