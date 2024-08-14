@@ -40,3 +40,10 @@ Uma das grandes vantagens dessa combinação é a possibilidade de colaborar de 
 O Mathcha é um editor online que facilita a criação de diagramas e fórmulas matemáticas. Ele oferece uma interface intuitiva e ferramentas que combinam elementos visuais e LaTeX, permitindo que usuários criem e editem documentos matemáticos de forma prática.
 
 [Mathcha](https://www.mathcha.io/editor){: .btn }
+
+## Zotero
+
+O Zotero é uma ferramenta gratuita para gerenciar referências, permitindo organizar e citar fontes de pesquisa de forma prática. Com a extensão Better BibTeX, o Zotero se torna ainda mais útil para quem trabalha com LaTeX, melhorando a exportação de referências no formato BibTeX e automatizando a criação de chaves personalizáveis.
+
+[Zotero](https://www.zotero.org/download/){: .btn }
+[Better BibiTex](https://retorque.re/zotero-better-bibtex/){: .btn }
