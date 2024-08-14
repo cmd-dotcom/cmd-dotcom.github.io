@@ -2,7 +2,7 @@
 layout: default
 title: Latex
 parent: Utilidades
-nav_order: 3
+
 ---
 
 # Paginas úteis para escrita em Latex
