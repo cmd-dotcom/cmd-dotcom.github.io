@@ -31,3 +31,5 @@ Portanto, o Overleaf é uma excelente escolha para iniciantes que desejam aprend
 O Visual Studio Code (VS Code), combinado com a extensão LaTeX Workshop, é uma opção poderosa para quem deseja trabalhar com LaTeX, especialmente em projetos colaborativos. Embora o VS Code seja amplamente conhecido como um editor de código versátil, sua capacidade de se integrar com LaTeX através do LaTeX Workshop o transforma em uma ferramenta completa para a criação de documentos técnicos e acadêmicos.
 
 Uma das grandes vantagens dessa combinação é a possibilidade de colaborar de forma eficiente, mesmo sem a necessidade de uma plataforma online dedicada, como o Overleaf. O VS Code permite que equipes trabalhem juntas utilizando sistemas de controle de versão como o Git, facilitando o acompanhamento de mudanças e a fusão de contribuições de vários membros do grupo.
+
+[Extensão](https://github.com/James-Yu/LaTeX-Workshop/wiki/Install){: .btn }
