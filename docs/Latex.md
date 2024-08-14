@@ -2,7 +2,7 @@
 layout: default
 title: Latex
 parent: Utilidades
-nav_order: 1
+nav_order: 3
 ---
 
 # Paginas úteis para escrita em Latex
@@ -25,3 +25,9 @@ O Overleaf simplifica essa experiência, oferecendo uma interface amigável e fe
 Portanto, o Overleaf é uma excelente escolha para iniciantes que desejam aprender LaTeX de maneira prática e eficiente, aproveitando um ambiente intuitivo e acessível.
 
 [Overleaf](https://pt.overleaf.com/){: .btn }
+
+## VS Code + LaTex Workshop
+
+O Visual Studio Code (VS Code), combinado com a extensão LaTeX Workshop, é uma opção poderosa para quem deseja trabalhar com LaTeX, especialmente em projetos colaborativos. Embora o VS Code seja amplamente conhecido como um editor de código versátil, sua capacidade de se integrar com LaTeX através do LaTeX Workshop o transforma em uma ferramenta completa para a criação de documentos técnicos e acadêmicos.
+
+Uma das grandes vantagens dessa combinação é a possibilidade de colaborar de forma eficiente, mesmo sem a necessidade de uma plataforma online dedicada, como o Overleaf. O VS Code permite que equipes trabalhem juntas utilizando sistemas de controle de versão como o Git, facilitando o acompanhamento de mudanças e a fusão de contribuições de vários membros do grupo.
