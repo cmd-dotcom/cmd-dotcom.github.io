@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buttons
+title: Latex
 parent: Utilidades
 nav_order: 1
 ---
