@@ -37,6 +37,6 @@ Uma das grandes vantagens dessa combinação é a possibilidade de colaborar de 
 
 ## Mathcha 
 
-O Mathcha é um editor online que facilita a criação de diagramas e fórmulas matemáticas. Ele oferece uma interface intuitiva e ferramentas que combinam elementos visuais e LaTeX, permitindo que usuários criem e editem documentos matemáticos de forma prática e colaborativa.
+O Mathcha é um editor online que facilita a criação de diagramas e fórmulas matemáticas. Ele oferece uma interface intuitiva e ferramentas que combinam elementos visuais e LaTeX, permitindo que usuários criem e editem documentos matemáticos de forma prática.
 
 [Mathcha](https://www.mathcha.io/editor){: .btn }
