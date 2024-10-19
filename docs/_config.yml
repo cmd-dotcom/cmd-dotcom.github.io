@@ -4,6 +4,8 @@ theme: just-the-docs
 
 url: https://cmd-dotcom.github.io
 
+destination: docs/_site
+
 aux_links:
   "Esse site":
     - "https://cmd-dotcom.github.io/"
